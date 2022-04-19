@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 kfp-tekton = "*"
+python-ldap = "*"
 
 [dev-packages]
 
